@@ -21,5 +21,5 @@
 
 
 
-![Rohith](https://raw.githubusercontent.com/Mastan-I4/CSE-C/master/rohitsharma%20.jpg)
+![Rohith](rr.jpg)
 
