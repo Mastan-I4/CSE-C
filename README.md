@@ -18,7 +18,8 @@
 #### Link Read Me
 [Google]("www.google.com")
 # Image in Readme File
-![Rohit] (rohitsharma.jpg)
+
+
 
 ![Rohith](https://raw.githubusercontent.com/Mastan-I4/CSE-C/master/rohitsharma%20.jpg)
 
