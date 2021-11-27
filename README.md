@@ -24,8 +24,11 @@
 ![Rohith](rr.jpg)
 
 Good Morning
+
 Open Readme File
+
 #Table
+
 |s.no|name|branch|rollnumber|
 |----|----|----|---------|
 |1|mastan|cse|6093a1|
@@ -61,7 +64,7 @@ Open Readme File
        4.Civil
        5.Mech
    
-      5.College
+     5.College
 
 ```python
     def hello()
