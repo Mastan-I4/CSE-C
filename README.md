@@ -31,29 +31,37 @@ Open Readme File
 |1|mastan|cse|6093a1|
 |2|gannesh|cse|6340a2|
 
-*Name
-*Roll Number
-*Branch
-*College
+
+## ordered list
+      1.Name
+      2.roll number
+      3.branch
+      4.college
+
+## unordered list
+      *name
+      *roll number
+      *branch
+      *college
 
 ## nested list 
-1.name
-    *first name
-    *last name
-    *surname
+      1.name
+       *first name
+       *last name
+       *surname
     
-2.github
-    *user name
+      2.github
+       *user name
 
-3.Roll Number
-4.Branch
-    1.CSE
-    2.ECE
-    3.EEE
-    4.Civil
-    5.Mech
+      3.Roll Number
+      4.Branch
+       1.CSE
+       2.ECE
+       3.EEE
+       4.Civil
+       5.Mech
    
-5.College
+      5.College
 
 ```python
     def hello()
