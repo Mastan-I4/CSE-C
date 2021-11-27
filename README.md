@@ -23,3 +23,42 @@
 
 ![Rohith](rr.jpg)
 
+Good Morning
+Open Readme File
+#Table
+|s.no|name|branch|rollnumber|
+|----|----|----|---------|
+|1|mastan|cse|6093a1|
+|2|gannesh|cse|6340a2|
+
+*Name
+*Roll Number
+*Branch
+*College
+
+## nested list 
+1.name
+    *first name
+    *last name
+    *surname
+    
+2.github
+    *user name
+
+3.Roll Number
+4.Branch
+    1.CSE
+    2.ECE
+    3.EEE
+    4.Civil
+    5.Mech
+   
+5.College
+
+```python
+    def hello()
+    a=2
+    b=3
+    c=43
+    print(a+b+c)
+```    
